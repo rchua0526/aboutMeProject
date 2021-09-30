@@ -22,11 +22,12 @@ ul {
 
 footer {
     font-family: 'Maven Pro', sans-serif;
-    
+    border-top: 2px solid black;
 }
 
 .navbar {
     height: 100px;
+    font-family: 'Maven Pro', sans-serif;
 }
 
 .capsule {
