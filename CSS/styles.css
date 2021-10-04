@@ -48,3 +48,13 @@ footer {
    background-position: center;
    font-family: 'Oswald', sans-serif;
 }
+
+nav a:visited{
+    color: red;
+}
+nav a:hover{
+    background-color:lightskyblue;
+}
+nav a:active{
+    background-color: lavender;
+}
