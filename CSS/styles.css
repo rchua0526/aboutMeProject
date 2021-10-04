@@ -42,7 +42,7 @@ footer {
 }
 
 .jumbotron {
-   background-image: url(img\bridge.jpg);
+   background-image: url(/img/bridge.jpg);
    background-size: cover;
    height: 800px;
    background-position: center;
